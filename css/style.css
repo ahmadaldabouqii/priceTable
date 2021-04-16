@@ -13,8 +13,8 @@ body{
 
 .panel{
     background-color: white;
-    border-radius: .9em;
-    padding: 1em 1.5em;
+    border-radius: 0.625em;
+    padding: 0.9375em 1.5625em;
     width: 100%;
     max-width: 60em;
     display: flex;
@@ -24,7 +24,7 @@ body{
 }
 
 .pricing-plan{
-    border-bottom: 1px solid #e1f1ff;
+    border-bottom: 0.0625em solid #e1f1ff;
 }
 
 .pricing-plan:last-child{
@@ -32,32 +32,32 @@ body{
 }
 
 .pricing-img{
-    margin: 1.5em;
+    margin: 1.5625em;
     max-width: 100%;
 }
 
 .pricing-header{
     font-weight: 600;
-    letter-spacing: 1px;
+    letter-spacing: 0.0625em;
     color: #888;
 }
 
 .pricing-features{
-    margin: 2.5em 0 1.5em;
+    margin: 3.125em 0 1.5625em;
     color:#016ff9;
 }
 
 .pricing-features-item{
     font-weight: 600;
-    letter-spacing: 1px;
-    font-size: .8em;
+    letter-spacing: 0.0625em;
+    font-size:  0.75em;
     line-height: 1.5;
-    padding: 1em 0;
-    border-top: 1px solid #e1f1ff;
+    padding: 0.9375em 0;
+    border-top: 0.0625em solid #e1f1ff;
 }
 
 .pricing-features-item:last-child{
-    border-bottom: 1px solid #e1f1ff;
+    border-bottom: 0.0625em solid #e1f1ff;
 }
 
 .pricing-price{
@@ -68,13 +68,13 @@ body{
 }
 
 .pricing-button{
-    border: 1px solid #9dd1ff;
-    border-radius: .6em;
+    border: 0.0625em solid #9dd1ff;
+    border-radius: 0.625em;
     color: #348efe;
     display: inline-block;
-    padding: .94em 1.99em;
+    padding:  0.9375em 2.1875em;
     text-decoration: none;
-    margin: 1.5em;
+    margin:  1.5625em;
     transition: background-color 200ms ease-in-out;
 }
 
@@ -98,8 +98,8 @@ body{
     }
     .pricing-plan{
         border-bottom: none;
-        border-right: 1px solid #e1f1ff;
-        padding: 1.5em 2.5em;
+        border-right: 0.0625em solid #e1f1ff;
+        padding: 1.5625em 3.125em;
     }
     .pricing-plan:last-child{
         border-right: none;
