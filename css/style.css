@@ -1,4 +1,4 @@
-html{
+ html{
     font-family: 'Open Sans', sans-serif;
     box-sizing: border-box;
 }
@@ -32,7 +32,7 @@ body{
 }
 
 .pricing-img{
-    margin: 1.5625em;
+    margin: 1.5625em 0;
     max-width: 100%;
 }
 
