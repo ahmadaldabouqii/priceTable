@@ -76,9 +76,9 @@ body{
     border-radius: 0.625em;
     color: #348efe;
     display: inline-block;
+    margin:  1.5625em;
     padding:  0.9375em 2.1875em;
     text-decoration: none;
-    margin:  1.5625em;
     transition: background-color 200ms ease-in-out;
 }
 
